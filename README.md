@@ -1,4 +1,5 @@
 # PyTorch english manual (pytorch handbook)
+# Updated and translated form chinese
 ![pytorch](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
 
 ## Books Introduction
