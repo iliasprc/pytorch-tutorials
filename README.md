@@ -28,12 +28,12 @@ Java bindings are included in the support list, and a springboot integration tut
 
 1. [Introduction to PyTorch](chapter1/1.1-pytorch-introduction.md)
 2. [PyTorch environment setup](chapter1/1.2-pytorch-installation.md)
-3. [PyTorch Deep Learning: 60-minute quick start (official)](chapter1/1.3-deep-learning-with-pytorch-60-minute-blitz.md)
-    -[Tensor](chapter1/1_tensor_tutorial.ipynb)
-    -[Autograd: Automatic Derivation](chapter1/2_autograd_tutorial.ipynb)
-    -[Neural Network](chapter1/3_neural_networks_tutorial.ipynb)
-    -[Train a classifier](chapter1/4_cifar10_tutorial.ipynb)
-    -[Selected Reading: Data Parallel Processing (Multi-GPU)](chapter1/5_data_parallel_tutorial.ipynb)
+3. [PyTorch Deep Learning: 60-minute quick start (official)](chapter1/1.3-deep-learning-with-pytorch-60-minute-blitz.md)  
+    - [Tensor](chapter1/1_tensor_tutorial.ipynb)
+    - [Autograd: Automatic Derivation](chapter1/2_autograd_tutorial.ipynb)
+    - [Neural Network](chapter1/3_neural_networks_tutorial.ipynb)
+    - [Train a classifier](chapter1/4_cifar10_tutorial.ipynb)
+    - [Selected Reading: Data Parallel Processing (Multi-GPU)](chapter1/5_data_parallel_tutorial.ipynb)
 4. [Related Resource Introduction](chapter1/1.4-pytorch-resource.md)
 
 ### Chapter 2 Basics
