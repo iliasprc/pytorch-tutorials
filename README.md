@@ -20,6 +20,20 @@ Java bindings are included in the support list, and a springboot integration tut
 
 
 
+# TODO
+Organize chapters and notebooks
+
+!? benchmarks on data loading, weight initialization, optimizers
+
+Custom dataloaders
+
+Templates for better coding in pytorch
+
+Updates of tensorboard instead of tensorboardX
+
+useful functions
+
+Custom Losses and losses from numpy tensors (as in cython), networks types of fusion, 
 
 
 ## Table of Contents
