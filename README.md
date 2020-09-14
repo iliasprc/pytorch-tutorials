@@ -1,22 +1,20 @@
-# PyTorch english manual (pytorch handbook)
-# Updated and translated form chinese
+# PyTorch book 
+
 ![pytorch](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
+handbook by
 
-## Books Introduction
-This is an open source book, the goal is to help those who want and use PyTorch for deep learning development and research quick start.
 
-Due to my limited level, I refer to some online materials when writing this tutorial, and pay tribute to them here. I will attach the original address in each citation for your reference.
+
+![ais](ais.png)
+##  Introduction
+This is an open source book by AI SUMMER, the goal is to help those who want and use PyTorch for deep learning development and research.
 
 The technology of deep learning is developing rapidly, and PyTorch is constantly updated, and I will gradually improve the relevant content.
 
 ## Release Notes
 As the PyTorch version changes, the tutorial version will be the same as the PyTorch version.
 
-2020.1.16 PyTorch has released a stable version of 1.4.
-
-Java bindings are included in the support list, and a springboot integration tutorial is being prepared these days
-
-
+PyTorch has released the latest version 1.6.0.
 
 
 
@@ -41,87 +39,105 @@ Custom Losses and losses from numpy tensors (as in cython), networks types of fu
 ### Chapter 1: Getting Started with PyTorch
 
 1. [Introduction to PyTorch](chapter1/1.1-pytorch-introduction.md)
-2. [PyTorch environment setup](chapter1/1.2-pytorch-installation.md)
-3. [PyTorch Deep Learning: 60-minute quick start (official)](chapter1/1.3-deep-learning-with-pytorch-60-minute-blitz.md)  
+1. [PyTorch environment setup](chapter1/1.2-pytorch-installation.md)
+1. [PyTorch Deep Learning: 60-minute quick start (official)](chapter1/1.3-deep-learning-with-pytorch-60-minute-blitz.md)  
     - [Tensor](chapter1/1_tensor_tutorial.ipynb)
     - [Autograd: Automatic Derivation](chapter1/2_autograd_tutorial.ipynb)
     - [Neural Network](chapter1/3_neural_networks_tutorial.ipynb)
     - [Train a classifier](chapter1/4_cifar10_tutorial.ipynb)
     - [Selected Reading: Data Parallel Processing (Multi-GPU)](chapter1/5_data_parallel_tutorial.ipynb)
-4. [Related Resource Introduction](chapter1/1.4-pytorch-resource.md)
+1. [Related Resource Introduction](chapter1/1.4-pytorch-resource.md)
 
 ### Chapter 2 Basics
-#### Section 1 PyTorch Basics
+#### 2.1 PyTorch Basics
 1. [Tensor](chapter2/2.1.1.pytorch-basics-tensor.ipynb)
-2. [Automatic Derivation](chapter2/2.1.2-pytorch-basics-autograd.ipynb)
-3. [Neural Network Package nn and Optimizer optm](chapter2/2.1.3-pytorch-basics-nerual-network.ipynb)
-4. [Data loading and preprocessing](chapter2/2.1.4-pytorch-basics-data-loader.ipynb)
-#### Section 2 Deep Learning Basics and Mathematical Principles
+1. [Automatic Derivation](chapter2/2.1.2-pytorch-basics-autograd.ipynb)
+1. [Neural Network Package nn and Optimizer optm](chapter2/2.1.3-pytorch-basics-nerual-network.ipynb)
+1. [Data loading and preprocessing](chapter2/2.1.4-pytorch-basics-data-loader.ipynb)
+#### 2.2 Deep Learning Basics and Mathematical Principles
 
-[Deep learning basics and mathematical principles](chapter2/2.2-deep-learning-basic-mathematics.ipynb)
+- [Deep learning basics and mathematical principles](chapter2/2.2-deep-learning-basic-mathematics.ipynb)
 
-#### Section 3 Introduction to Neural Networks
+#### 2.3 Introduction to Neural Networks
 
-[Introduction to Neural Network](chapter2/2.3-deep-learning-neural-network-introduction.ipynb) Note: This chapter will crash when opened locally with Microsoft Edge, please open Chrome Firefox to view
+- [Introduction to Neural Networks](chapter2/2.3-deep-learning-neural-network-introduction.ipynb) 
+Note: This chapter will crash when opened locally with Microsoft Edge, please open Chrome Firefox to view
 
-#### Section 4 Convolutional Neural Network
+#### 2.4 Convolutional Neural Networks
 
-[Convolutional Neural Network](chapter2/2.4-cnn.ipynb)
+- [Convolutional Neural Networks](chapter2/2.4-cnn.ipynb)
 
-#### Section 5 Recurrent Neural Network
+#### 2.5 Recurrent Neural Networks
 
-[Recurrent Neural Network](chapter2/2.5-rnn.ipynb)
+- [Recurrent Neural Networks](chapter2/2.5-rnn.ipynb)
 
 ### Chapter 3 Practice
-#### Section 1 Logistic regression binary classification
+#### 3.1 Logistic regression binary classification
 
-[logistic regression binary classification](chapter3/3.1-logistic-regression.ipynb)
+- [Logistic regression binary classification](chapter3/3.1-logistic-regression.ipynb)
 
 
-#### Section 2 CNN: MNIST data set handwritten digit recognition
+#### 3.2 CNN: MNIST dataset handwritten digit recognition
 
-[CNN: Handwritten digit recognition of MNIST dataset](chapter3/3.2-mnist.ipynb)
+- [CNN: Handwritten digit recognition of MNIST dataset](chapter3/3.2-mnist.ipynb)
 
-#### Section 3 RNN Examples: Predicting Cos by Sin
+#### 3.3 RNN Examples: Predicting Cosine by Sin
 
-[RNN Example: Predicting Cos by Sin](chapter3/3.3-rnn.ipynb)
+- [RNN Example: Predicting Cos by Sin](chapter3/3.3-rnn.ipynb)
 
 ### Chapter 4 Improvement
-#### Section 1 Fine-tuning
+#### 4.1 Fine-tuning networks
 
-[Fine-tuning](chapter4/4.1-fine-tuning.ipynb)
+- [Fine-tuning](chapter4/4.1-fine-tuning.ipynb)
 
-#### Section 2 Visualization
+- [Loss functions]()
+- [Optimizers]()
+#### 4.2 Visualization
 
-[visdom](chapter4/4.2.1-visdom.ipynb)
+- [visdom](chapter4/4.2.1-visdom.ipynb)
 
-[tensorboardx](chapter4/4.2.2-tensorboardx.ipynb)
+- [tensorboardx](chapter4/4.2.2-tensorboardx.ipynb)
+(tensorboard support now)
+- [Visual Understanding Convolutional Neural Network](chapter4/4.2.3-cnn-visualizing.ipynb)
 
-[Visual Understanding Convolutional Neural Network](chapter4/4.2.3-cnn-visualizing.ipynb)
+#### 4.3 Fast.ai
+- [Fast.ai](chapter4/4.3-fastai.ipynb)
+#### 4.4 Training Skills
 
-#### Section 3 Fast.ai
-[Fast.ai](chapter4/4.3-fastai.ipynb)
-#### Section 4 Training Skills
+#### 4.5 Multi-GPU Parallel Training
+- [Multi-GPU parallel computing](chapter4/4.5-multiply-gpu-parallel-training.ipynb)
 
-#### Section 5 Multi-GPU Parallel Training
-[Multi-GPU parallel computing](chapter4/4.5-multiply-gpu-parallel-training.ipynb)
-
-### Chapter 5 Application
-#### Section 1 Introduction to Kaggle
+### Chapter 5 Applications
+#### 5.1 Introduction to Kaggle
 [Introduction to Kaggle](chapter5/5.1-kaggle.md)
-#### Section 2 Structured Data
+#### 5.2 Structured Data
 [Pytorch processing structured data](chapter5/5.2-Structured-Data.ipynb)
-#### Section 3 Computer Vision
+#### 5.3 Computer Vision
 [Fashion MNIST image classification](chapter5/5.3-Fashion-MNIST.ipynb)
-#### Section 4 Natural Language Processing
-#### Section 5 Collaborative Filtering
+#### 5.4 Natural Language Processing
+- Transformers
+- RNN encoder-decoder
+- with attention
+- Language models
 
-### Chapter 6 Resources
+#### 5.5 GANs
 
+#### 5.6 Action Recognition
+
+#### 5.7 Segmentation 2D, 3D
+
+#### 5.8 Medical Imaging, Health & AI
+
+#### 5.5 Collaborative Filtering
+
+### Chapter 6 Mobile , IoT
+- [Raspberry Pi with Pytorch](pi/)
+- [Export to mobile]()
+- [ONNX]()
 
 ### Chapter 7 Appendix
 
-[Raspberry Pi compile and install pytorch 1.4](pi/)
+
 
 Summary of common operations of transforms
 

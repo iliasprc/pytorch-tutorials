@@ -19,9 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68aebbcd-f2bc-4f22-9c1b-6fdf6318329f" name="Default Changelist" comment="Chapter 1 notebook updates">
+    <list default="true" id="68aebbcd-f2bc-4f22-9c1b-6fdf6318329f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/4_cifar10_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/4_cifar10_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/1_tensor_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1_tensor_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/2_autograd_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/2_autograd_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/3_neural_networks_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/3_neural_networks_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.1.1.pytorch-basics-tensor.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1.1.pytorch-basics-tensor.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.1.2-pytorch-basics-autograd.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1.2-pytorch-basics-autograd.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.1.3-pytorch-basics-nerual-network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1.3-pytorch-basics-nerual-network.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.1.4-pytorch-basics-data-loader.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1.4-pytorch-basics-data-loader.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.2-deep-learning-basic-mathematics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.2-deep-learning-basic-mathematics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.3-deep-learning-neural-network-introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.3-deep-learning-neural-network-introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.4-cnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.4-cnn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.5-rnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.5-rnn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.1-logistic-regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.1-logistic-regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.2-mnist.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.2-mnist.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.3-rnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.3-rnn.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +71,7 @@
       <updated>1599986205686</updated>
       <workItem from="1599987415752" duration="3068000" />
       <workItem from="1599991511692" duration="1422000" />
-      <workItem from="1600096080635" duration="1183000" />
+      <workItem from="1600096080635" duration="8414000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 1 updates">
       <created>1599990918728</created>
@@ -80,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600096410526</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cifar 10 update">
+      <created>1600097274879</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600097274879</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,36 +122,48 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter 1 updates" />
     <MESSAGE value="Chapter 1 notebook updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 notebook updates" />
+    <MESSAGE value="cifar 10 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1599994819852">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1599994819852" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1600096433888">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1600104534097">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600096433888" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1600096433887">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600104534097" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1600104534097">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600096433887" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1600096433887">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600104534097" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1600104534097">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600096433887" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1600096433888">
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600104534097" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1600104534097">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600096433888" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600104534097" />
     <state x="482" y="187" key="SettingsEditor" timestamp="1600096178423">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1600096178423" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1600096414417">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1600097279742">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1600096414417" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1600097279742" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///mnt/784C5F3A4C5EF1FC/PROJECTS/pytorch-tutorials/chapter4/4.1-fine-tuning.ipynb</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
