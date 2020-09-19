@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68aebbcd-f2bc-4f22-9c1b-6fdf6318329f" name="Default Changelist" comment="Translations">
+    <list default="true" id="68aebbcd-f2bc-4f22-9c1b-6fdf6318329f" name="Default Changelist" comment="Chapter1 Tensors and autograd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/2_autograd_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/2_autograd_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/1_tensor_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1_tensor_tutorial.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
       <workItem from="1600446569734" duration="4853000" />
       <workItem from="1600460500536" duration="2216000" />
       <workItem from="1600504359093" duration="4323000" />
-      <workItem from="1600521638130" duration="2236000" />
+      <workItem from="1600521638130" duration="2790000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 1 updates">
       <created>1599990918728</created>
@@ -106,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600516140792</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Translations">
+      <created>1600523877262</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600523877262</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Chapter1 Tensors and autograd">
+      <created>1600523924441</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600523924441</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,29 +143,30 @@
     <MESSAGE value="Chapter 1 notebook updates" />
     <MESSAGE value="cifar 10 update" />
     <MESSAGE value="Translations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Translations" />
+    <MESSAGE value="Chapter1 Tensors and autograd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter1 Tensors and autograd" />
   </component>
   <component name="WindowStateProjectService">
     <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1599994819852">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1599994819852" />
-    <state width="903" height="300" key="GridCell.Tab.0.bottom" timestamp="1600504996225">
+    <state width="903" height="300" key="GridCell.Tab.0.bottom" timestamp="1600524021980">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="903" height="300" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600504996225" />
-    <state width="903" height="300" key="GridCell.Tab.0.center" timestamp="1600504996225">
+    <state width="903" height="300" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600524021980" />
+    <state width="903" height="300" key="GridCell.Tab.0.center" timestamp="1600524021980">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="903" height="300" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600504996225" />
-    <state width="903" height="300" key="GridCell.Tab.0.left" timestamp="1600504996224">
+    <state width="903" height="300" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600524021980" />
+    <state width="903" height="300" key="GridCell.Tab.0.left" timestamp="1600524021979">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="903" height="300" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600504996224" />
-    <state width="903" height="300" key="GridCell.Tab.0.right" timestamp="1600504996225">
+    <state width="903" height="300" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600524021979" />
+    <state width="903" height="300" key="GridCell.Tab.0.right" timestamp="1600524021980">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="903" height="300" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600504996225" />
+    <state width="903" height="300" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600524021980" />
     <state width="903" height="344" key="GridCell.Tab.1.bottom" timestamp="1600462713508">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -172,10 +187,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1600096178423" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1600110485025">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1600523928316">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1600110485025" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1600523928316" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
