@@ -19,23 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68aebbcd-f2bc-4f22-9c1b-6fdf6318329f" name="Default Changelist" comment="">
+    <list default="true" id="68aebbcd-f2bc-4f22-9c1b-6fdf6318329f" name="Default Changelist" comment="Translations">
+      <change afterPath="$PROJECT_DIR$/chapter1/images/Pytorch_book_chapter1_tensor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/images/autograd_chapter2_linear_graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/images/autograd_simple_weight_graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/images/chapter1_autograd.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/images/chapter1_autograd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/images/chapter1_autograd_derivatives.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/1.1-pytorch-introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1.1-pytorch-introduction.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter1/1_tensor_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1_tensor_tutorial.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter1/2_autograd_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/2_autograd_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/3_neural_networks_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/3_neural_networks_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.1.1.pytorch-basics-tensor.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1.1.pytorch-basics-tensor.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.1.2-pytorch-basics-autograd.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1.2-pytorch-basics-autograd.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.1.3-pytorch-basics-nerual-network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1.3-pytorch-basics-nerual-network.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.1.4-pytorch-basics-data-loader.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1.4-pytorch-basics-data-loader.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.2-deep-learning-basic-mathematics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.2-deep-learning-basic-mathematics.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.3-deep-learning-neural-network-introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.3-deep-learning-neural-network-introduction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.4-cnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.4-cnn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.5-rnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.5-rnn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.1-logistic-regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.1-logistic-regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.2-mnist.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.2-mnist.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.3-rnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.3-rnn.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +66,11 @@
       <updated>1599986205686</updated>
       <workItem from="1599987415752" duration="3068000" />
       <workItem from="1599991511692" duration="1422000" />
-      <workItem from="1600096080635" duration="8414000" />
+      <workItem from="1600096080635" duration="9712000" />
+      <workItem from="1600190779062" duration="171000" />
+      <workItem from="1600446569734" duration="4853000" />
+      <workItem from="1600460500536" duration="2216000" />
+      <workItem from="1600504359093" duration="4311000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 1 updates">
       <created>1599990918728</created>
@@ -101,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600097274879</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Translations">
+      <created>1600110476601</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600110476601</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,37 +129,54 @@
     <MESSAGE value="Chapter 1 updates" />
     <MESSAGE value="Chapter 1 notebook updates" />
     <MESSAGE value="cifar 10 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Translations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Translations" />
   </component>
   <component name="WindowStateProjectService">
     <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1599994819852">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1599994819852" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1600104534097">
+    <state width="903" height="300" key="GridCell.Tab.0.bottom" timestamp="1600504996225">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600104534097" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1600104534097">
+    <state width="903" height="300" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600504996225" />
+    <state width="903" height="300" key="GridCell.Tab.0.center" timestamp="1600504996225">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600104534097" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1600104534097">
+    <state width="903" height="300" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600504996225" />
+    <state width="903" height="300" key="GridCell.Tab.0.left" timestamp="1600504996224">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600104534097" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1600104534097">
+    <state width="903" height="300" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600504996224" />
+    <state width="903" height="300" key="GridCell.Tab.0.right" timestamp="1600504996225">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600104534097" />
+    <state width="903" height="300" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600504996225" />
+    <state width="903" height="344" key="GridCell.Tab.1.bottom" timestamp="1600462713508">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="903" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600462713508" />
+    <state width="903" height="344" key="GridCell.Tab.1.center" timestamp="1600462713508">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="903" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600462713508" />
+    <state width="903" height="344" key="GridCell.Tab.1.left" timestamp="1600462713507">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="903" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600462713507" />
+    <state width="903" height="344" key="GridCell.Tab.1.right" timestamp="1600462713508">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="903" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600462713508" />
     <state x="482" y="187" key="SettingsEditor" timestamp="1600096178423">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1600096178423" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1600097279742">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1600110485025">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1600097279742" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1600110485025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

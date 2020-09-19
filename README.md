@@ -115,10 +115,10 @@ Note: This chapter will crash when opened locally with Microsoft Edge, please op
 #### 5.3 Computer Vision
 [Fashion MNIST image classification](chapter5/5.3-Fashion-MNIST.ipynb)
 #### 5.4 Natural Language Processing
-- Transformers
-- RNN encoder-decoder
-- with attention
-- Language models
+- [Transformers]()
+- [RNN encoder-decoder]()
+- [with attention]()
+- [Language models]()
 
 #### 5.5 GANs
 
