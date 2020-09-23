@@ -7,6 +7,6 @@
 ## 第二节 结构化数据
 [Pytorch处理结构化数据](5.2-Structured-Data.ipynb)
 ## 第三节 计算机视觉
-[Fashion MNIST 图像分类](5.3-Fashion-MNIST.ipynb)
+[Fashion MNIST 图像分类](../3_CNN/5.3-Fashion-MNIST.ipynb)
 ## 第四节 自然语言处理
 ## 第五节 协同过滤

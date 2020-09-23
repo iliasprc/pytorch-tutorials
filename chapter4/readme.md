@@ -4,18 +4,18 @@
 
 ## Section 1 Fine-tuning
 
-[Fine-tuning](4.1-fine-tuning.ipynb)
+[Fine-tuning](../5_Optimization/4.1-fine-tuning.ipynb)
 
 ## Section 2 Visualization
 
-[visdom](4.2.1-visdom.ipynb)
+[visdom](../5_Optimization/4.2.1-visdom.ipynb)
 
-[tensorboardx](4.2.2-tensorboardx.ipynb)
+[tensorboardx](../5_Optimization/4.2.2-tensorboardx.ipynb)
 
-[Visualizing Convolutional Neural Networks](4.2.3-cnn-visualizing.ipynb)
+[Visualizing Convolutional Neural Networks](../5_Optimization/4.2.3-cnn-visualizing.ipynb)
 
 ## Section 3 Fast.ai
-[Fast.ai](4.3-fastai.ipynb)
+[Fast.ai](../5_Optimization/4.3-fastai.ipynb)
 
 ## Section 5 Multi-GPU Parallel Training
-[Multi-GPU Parallel Computing](4.5-multiply-gpu-parallel-training.ipynb)
+[Multi-GPU Parallel Computing](../5_Optimization/4.5-multiply-gpu-parallel-training.ipynb)

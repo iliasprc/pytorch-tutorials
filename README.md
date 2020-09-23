@@ -38,74 +38,74 @@ Custom Losses and losses from numpy tensors (as in cython), networks types of fu
 
 ### Chapter 1: Getting Started with PyTorch
 
-1. [Introduction to PyTorch](chapter1/1.1-pytorch-introduction.md)
-1. [PyTorch environment setup](chapter1/1.2-pytorch-installation.md)
-1. [PyTorch Deep Learning: 60-minute quick start (official)](chapter1/1.3-deep-learning-with-pytorch-60-minute-blitz.md)  
-    - [Tensor](chapter1/1_tensor_tutorial.ipynb)
-    - [Autograd: Automatic Derivation](chapter1/2_autograd_tutorial.ipynb)
-    - [Neural Network](chapter1/3_neural_networks_tutorial.ipynb)
-    - [Train a classifier](chapter1/4_cifar10_tutorial.ipynb)
-    - [Selected Reading: Data Parallel Processing (Multi-GPU)](chapter1/5_data_parallel_tutorial.ipynb)
+1. [Introduction to PyTorch](1_getting_started/1.1-pytorch-introduction.md)
+1. [PyTorch environment setup](1_getting_started/1.2-pytorch-installation.md)
+1. [PyTorch Deep Learning: 60-minute quick start (official)](1_getting_started/1.3-deep-learning-with-pytorch-60-minute-blitz.md)  
+    - [Tensor](1_getting_started/1.4._tensor_tutorial.ipynb)
+    - [Autograd: Automatic Derivation](1_getting_started/1.6.autograd_tutorial.ipynb)
+    - [Neural Network](3_CNN/3_neural_networks_tutorial.ipynb)
+    - [Train a classifier](3_CNN/4_cifar10_tutorial.ipynb)
+    - [Selected Reading: Data Parallel Processing (Multi-GPU)](2_Advanced_PyTorch/5_data_parallel_tutorial.ipynb)
 1. [Related Resource Introduction](chapter1/1.4-pytorch-resource.md)
 
 ### Chapter 2 Basics
 #### 2.1 PyTorch Basics
-1. [Tensor](chapter2/2.1.1.pytorch-basics-tensor.ipynb)
-1. [Automatic Derivation](chapter2/2.1.2-pytorch-basics-autograd.ipynb)
-1. [Neural Network Package nn and Optimizer optm](chapter2/2.1.3-pytorch-basics-nerual-network.ipynb)
-1. [Data loading and preprocessing](chapter2/2.1.4-pytorch-basics-data-loader.ipynb)
+1. [Tensor](2_Advanced_PyTorch/2.1.1.advanced-tensor.ipynb)
+1. [Automatic Derivation](2_Advanced_PyTorch/2.1.2-advnaced-autograd.ipynb)
+1. [Neural Network Package nn and Optimizer optm](2_Advanced_PyTorch/2.1.3-advanced-build-neural-network.ipynb)
+1. [Data loading and preprocessing](2_Advanced_PyTorch/2.1.4-pytorch-basics-data-loader.ipynb)
 #### 2.2 Deep Learning Basics and Mathematical Principles
 
-- [Deep learning basics and mathematical principles](chapter2/2.2-deep-learning-basic-mathematics.ipynb)
+- [Deep learning basics and mathematical principles](2_Advanced_PyTorch/2.2-deep-learning-basic-mathematics.ipynb)
 
 #### 2.3 Introduction to Neural Networks
 
-- [Introduction to Neural Networks](chapter2/2.3-deep-learning-neural-network-introduction.ipynb) 
+- [Introduction to Neural Networks](2_Advanced_PyTorch/2.3-deep-learning-neural-network-introduction.ipynb) 
 Note: This chapter will crash when opened locally with Microsoft Edge, please open Chrome Firefox to view
 
 #### 2.4 Convolutional Neural Networks
 
-- [Convolutional Neural Networks](chapter2/2.4-cnn.ipynb)
+- [Convolutional Neural Networks](3_CNN/2.4-cnn.ipynb)
 
 #### 2.5 Recurrent Neural Networks
 
-- [Recurrent Neural Networks](chapter2/2.5-rnn.ipynb)
+- [Recurrent Neural Networks](4_RNN/2.5-rnn.ipynb)
 
 ### Chapter 3 Practice
 #### 3.1 Logistic regression binary classification
 
-- [Logistic regression binary classification](chapter3/3.1-logistic-regression.ipynb)
+- [Logistic regression binary classification](1_getting_started/1.8.logistic-regression.ipynb)
 
 
 #### 3.2 CNN: MNIST dataset handwritten digit recognition
 
-- [CNN: Handwritten digit recognition of MNIST dataset](chapter3/3.2-mnist.ipynb)
+- [CNN: Handwritten digit recognition of MNIST dataset](3_CNN/3.2-mnist.ipynb)
 
 #### 3.3 RNN Examples: Predicting Cosine by Sin
 
-- [RNN Example: Predicting Cos by Sin](chapter3/3.3-rnn.ipynb)
+- [RNN Example: Predicting Cos by Sin](4_RNN/3.3-rnn.ipynb)
 
 ### Chapter 4 Improvement
 #### 4.1 Fine-tuning networks
 
-- [Fine-tuning](chapter4/4.1-fine-tuning.ipynb)
+- [Fine-tuning](5_Optimization/4.1-fine-tuning.ipynb)
 
 - [Loss functions]()
 - [Optimizers]()
 #### 4.2 Visualization
 
-- [visdom](chapter4/4.2.1-visdom.ipynb)
+- [visdom](5_Optimization/4.2.1-visdom.ipynb)
 
-- [tensorboardx](chapter4/4.2.2-tensorboardx.ipynb)
+- [tensorboardx](5_Optimization/4.2.2-tensorboardx.ipynb)
 (tensorboard support now)
-- [Visual Understanding Convolutional Neural Network](chapter4/4.2.3-cnn-visualizing.ipynb)
+- [Visual Understanding Convolutional Neural Network](5_Optimization/4.2.3-cnn-visualizing.ipynb)
 
 #### 4.3 Fast.ai
-- [Fast.ai](chapter4/4.3-fastai.ipynb)
+- [Fast.ai](5_Optimization/4.3-fastai.ipynb)
 #### 4.4 Training Skills
 
 #### 4.5 Multi-GPU Parallel Training
-- [Multi-GPU parallel computing](chapter4/4.5-multiply-gpu-parallel-training.ipynb)
+- [Multi-GPU parallel computing](5_Optimization/4.5-multiply-gpu-parallel-training.ipynb)
 
 ### Chapter 5 Applications
 #### 5.1 Introduction to Kaggle
@@ -113,7 +113,7 @@ Note: This chapter will crash when opened locally with Microsoft Edge, please op
 #### 5.2 Structured Data
 [Pytorch processing structured data](chapter5/5.2-Structured-Data.ipynb)
 #### 5.3 Computer Vision
-[Fashion MNIST image classification](chapter5/5.3-Fashion-MNIST.ipynb)
+[Fashion MNIST image classification](3_CNN/5.3-Fashion-MNIST.ipynb)
 #### 5.4 Natural Language Processing
 - [Transformers]()
 - [RNN encoder-decoder]()
