@@ -26,79 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68aebbcd-f2bc-4f22-9c1b-6fdf6318329f" name="Default Changelist" comment="Translation chapter 3, 4 and 5">
-      <change afterPath="$PROJECT_DIR$/1_getting_started/1.7.linear_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_CNN/3_neural_networks_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.1-pytorch-introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.1-pytorch-introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.2-pytorch-installation.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.2-pytorch-installation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.3-deep-learning-with-pytorch-60-minute-blitz.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.3-deep-learning-with-pytorch-60-minute-blitz.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1_AIS_Pytorch_Tensor_Autograd.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1_AIS_Pytorch_Tensor_Autograd.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1_tensor_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.4._tensor_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/2_autograd_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.6.autograd_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/3_neural_networks_tutorial.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/4_cifar10_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_CNN/4_cifar10_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/5_data_parallel_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/5_data_parallel_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/images/Pytorch_book_chapter1_tensor.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/figures/Pytorch_book_chapter1_tensor.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/images/autograd_chapter2_linear_graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/figures/autograd_chapter2_linear_graph.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/images/autograd_simple_weight_graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/figures/autograd_simple_weight_graph.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/images/chapter1_autograd.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/figures/chapter1_autograd.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/images/chapter1_autograd.png" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/figures/chapter1_autograd.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/images/chapter1_autograd_derivatives.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/figures/chapter1_autograd_derivatives.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/images/chapter_1_1_tensors_addition.png" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/figures/chapter_1_1_tensors_addition.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/images/chapter_1_1_tensors_identity.png" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/figures/chapter_1_1_tensors_identity.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/images/chapter_1_1_tensors_range.png" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/figures/chapter_1_1_tensors_range.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.1.1.pytorch-basics-tensor.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/2.1.1.advanced-tensor.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.1.2-pytorch-basics-autograd.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/2.1.2-advnaced-autograd.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.1.3-pytorch-basics-nerual-network.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.1.4-pytorch-basics-data-loader.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/2.1.4-pytorch-basics-data-loader.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.2-deep-learning-basic-mathematics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/2.2-deep-learning-basic-mathematics.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.3-deep-learning-neural-network-introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/2.3-deep-learning-neural-network-introduction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.4-cnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_CNN/2.4-cnn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.5-rnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4_RNN/2.5-rnn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/9.gif" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/9.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/alexnet.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/alexnet.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/cnn.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/cnn.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/googlenet.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/googlenet.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/gru.gif" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/gru.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/lenet5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/lenet5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/lstm.gif" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/lstm.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/median_benchmark.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/median_benchmark.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/resnet.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/resnet.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/resnet18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/resnet18.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/vgg16.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/figures/vgg16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.1-logistic-regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.8.logistic-regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.2-mnist.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_CNN/3.2-mnist.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.3-rnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4_RNN/3.3-rnn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/german.data-numeric" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/data/german.data-numeric" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/5_Optimization/figures/1.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/1280px-Felis_silvestris_catus_lying_on_rice_straw.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/5_Optimization/figures/1280px-Felis_silvestris_catus_lying_on_rice_straw.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/5_Optimization/figures/2.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/3.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/5_Optimization/figures/3.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.1-fine-tuning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5_Optimization/4.1-fine-tuning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.2.1-visdom.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5_Optimization/4.2.1-visdom.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.2.2-tensorboardx.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5_Optimization/4.2.2-tensorboardx.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.2.3-cnn-visualizing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5_Optimization/4.2.3-cnn-visualizing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.3-fastai.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5_Optimization/4.3-fastai.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.5-multiply-gpu-parallel-training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5_Optimization/4.5-multiply-gpu-parallel-training.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.2-Structured-Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.2-Structured-Data.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.3-Fashion-MNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_CNN/5.3-Fashion-MNIST.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_getting_started/1.7.linear_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.7.linear_regression.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -359,16 +287,5 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="866" y="399" width="244" height="307" key="cloudConfig.SelfSettingsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600710505722" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///mnt/784C5F3A4C5EF1FC/PROJECTS/pytorch-tutorials/chapter4/4.1-fine-tuning.ipynb</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
