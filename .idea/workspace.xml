@@ -20,19 +20,17 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68aebbcd-f2bc-4f22-9c1b-6fdf6318329f" name="Default Changelist" comment="linear regression update">
-      <change afterPath="$PROJECT_DIR$/1_getting_started/figures/1.7.data_viz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_getting_started/figures/1.7.linear_regression.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_getting_started/figures/1.8.logistic.png" afterDir="false" />
+    <list default="true" id="68aebbcd-f2bc-4f22-9c1b-6fdf6318329f" name="Default Changelist" comment="Update linear regression ipynb">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pytorch-tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pytorch-tutorials.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1_getting_started/1.7.linear_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.7.linear_regression.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1_getting_started/1.8.logistic-regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.8.logistic-regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_getting_started/notebook0c60d3209c.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/notebook0c60d3209c.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +44,26 @@
       </list>
     </option>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="fab88952-62ef-4f6b-9532-5c3240280ac3" />
+  <component name="JupyterTrust" id="17e5a93e-9d7f-40b6-a48e-ad60a47828b8" />
   <component name="ProjectId" id="1aqVRpwASv193Oujru1qRZxdeTy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -64,8 +73,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/1_getting_started" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tensorflow_examples" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -76,7 +85,6 @@
       <recent name="$PROJECT_DIR$/1_getting_started" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/1_getting_started" />
       <recent name="$PROJECT_DIR$/7_Video_Action_Recognition" />
       <recent name="$PROJECT_DIR$/6_NLP" />
       <recent name="$PROJECT_DIR$/5_Optimization" />
@@ -109,7 +117,10 @@
       <workItem from="1600800495322" duration="5357000" />
       <workItem from="1600847942868" duration="420000" />
       <workItem from="1600852236658" duration="2170000" />
-      <workItem from="1601016510796" duration="10248000" />
+      <workItem from="1600972564967" duration="4112000" />
+      <workItem from="1601050945486" duration="1512000" />
+      <workItem from="1601059381554" duration="698000" />
+      <workItem from="1601108827190" duration="6774000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 1 updates">
       <created>1599990918728</created>
@@ -202,12 +213,12 @@
       <option name="project" value="LOCAL" />
       <updated>1600710211602</updated>
     </task>
-    <task id="LOCAL-00014" summary="linear regression update">
-      <created>1600949357137</created>
+    <task id="LOCAL-00014" summary="Update linear regression ipynb">
+      <created>1600978040834</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1600949357137</updated>
+      <updated>1600978040834</updated>
     </task>
     <option name="localTasksCounter" value="15" />
     <servers />
@@ -226,7 +237,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="dev" />
                       </list>
                     </value>
                   </entry>
@@ -247,69 +258,80 @@
     <MESSAGE value="Chapter1 Tensors and autograd" />
     <MESSAGE value="Ai summer chapter 1" />
     <MESSAGE value="Translation chapter 3, 4 and 5" />
-    <MESSAGE value="linear regression update" />
-    <option name="LAST_COMMIT_MESSAGE" value="linear regression update" />
+    <MESSAGE value="Update linear regression ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update linear regression ipynb" />
   </component>
   <component name="WindowStateProjectService">
     <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600801339533">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600801339533" />
-    <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1600599826062">
+    <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1601059430412">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600599826062" />
-    <state width="1807" height="280" key="GridCell.Tab.0.bottom" timestamp="1601035401280">
+    <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1601059430412" />
+    <state width="903" height="371" key="GridCell.Tab.0.bottom" timestamp="1601125297489">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="280" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601035401280" />
-    <state width="1807" height="280" key="GridCell.Tab.0.center" timestamp="1601035401279">
+    <state width="903" height="371" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601125297489" />
+    <state width="903" height="371" key="GridCell.Tab.0.center" timestamp="1601125297488">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="280" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601035401279" />
-    <state width="1807" height="280" key="GridCell.Tab.0.left" timestamp="1601035401279">
+    <state width="903" height="371" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601125297488" />
+    <state width="903" height="371" key="GridCell.Tab.0.left" timestamp="1601125297488">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="280" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601035401279" />
-    <state width="1807" height="280" key="GridCell.Tab.0.right" timestamp="1601035401279">
+    <state width="903" height="371" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601125297488" />
+    <state width="903" height="371" key="GridCell.Tab.0.right" timestamp="1601125297488">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="280" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601035401279" />
-    <state width="903" height="344" key="GridCell.Tab.1.bottom" timestamp="1600462713508">
+    <state width="903" height="371" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601125297488" />
+    <state width="903" height="344" key="GridCell.Tab.1.bottom" timestamp="1600888457558">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="903" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600462713508" />
-    <state width="903" height="344" key="GridCell.Tab.1.center" timestamp="1600462713508">
+    <state width="903" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600888457558" />
+    <state width="903" height="344" key="GridCell.Tab.1.center" timestamp="1600888457558">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="903" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600462713508" />
-    <state width="903" height="344" key="GridCell.Tab.1.left" timestamp="1600462713507">
+    <state width="903" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600888457558" />
+    <state width="903" height="344" key="GridCell.Tab.1.left" timestamp="1600888457558">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="903" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600462713507" />
-    <state width="903" height="344" key="GridCell.Tab.1.right" timestamp="1600462713508">
+    <state width="903" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600888457558" />
+    <state width="903" height="344" key="GridCell.Tab.1.right" timestamp="1600888457558">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="903" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600462713508" />
-    <state x="624" y="313" width="728" height="478" key="MultipleFileMergeDialog" timestamp="1601015543774">
+    <state width="903" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600888457558" />
+    <state x="247" y="116" width="1482" height="872" key="MergeDialog" timestamp="1601051343895">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="624" y="313" width="728" height="478" key="MultipleFileMergeDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1601015543774" />
-    <state x="482" y="187" key="SettingsEditor" timestamp="1600096178423">
+    <state x="247" y="116" width="1482" height="872" key="MergeDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1601051343895" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1601109626737">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1600096178423" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1601015530604">
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1601109626737" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1600978045914">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1601015530604" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1600978045914" />
     <state x="866" y="399" width="244" height="307" key="cloudConfig.SelfSettingsDialog" timestamp="1600710505722">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="866" y="399" width="244" height="307" key="cloudConfig.SelfSettingsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600710505722" />
-    <state x="775" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601015536764">
+    <state x="775" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601051275733">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="775" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1601015536764" />
+    <state x="775" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1601051275733" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///mnt/784C5F3A4C5EF1FC/PROJECTS/pytorch-tutorials/chapter4/4.1-fine-tuning.ipynb</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
