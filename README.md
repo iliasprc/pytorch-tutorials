@@ -60,7 +60,7 @@ Custom Losses and losses from numpy tensors (as in cython), networks types of fu
 
 #### 2.3 Introduction to Neural Networks
 
-- [Introduction to Neural Networks](2_Advanced_PyTorch/2.3-deep-learning-neural-network-introduction.ipynb) 
+- [Introduction to Neural Networks](1_getting_started/1.9.neural-network-introduction.ipynb) 
 Note: This chapter will crash when opened locally with Microsoft Edge, please open Chrome Firefox to view
 
 #### 2.4 Convolutional Neural Networks

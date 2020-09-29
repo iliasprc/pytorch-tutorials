@@ -20,7 +20,7 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -30,7 +30,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/pytorch-tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pytorch-tutorials.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1_getting_started/1.7.linear_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.7.linear_regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_getting_started/1.8.logistic-regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.8.logistic-regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Advanced_PyTorch/2.2-deep-learning-basic-mathematics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/2.2-deep-learning-basic-mathematics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Advanced_PyTorch/2.3-deep-learning-neural-network-introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.9.neural-network-introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Advanced_PyTorch/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_CNN/2.4-cnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_CNN/2.4-cnn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +67,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="17e5a93e-9d7f-40b6-a48e-ad60a47828b8" />
+  <component name="JupyterTrust" id="fab88952-62ef-4f6b-9532-5c3240280ac3" />
   <component name="ProjectId" id="1aqVRpwASv193Oujru1qRZxdeTy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -77,18 +81,18 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/4_RNN" />
-      <recent name="$PROJECT_DIR$/3_CNN" />
-      <recent name="$PROJECT_DIR$/1_getting_started/data" />
-      <recent name="$PROJECT_DIR$/2_Advanced_PyTorch" />
-      <recent name="$PROJECT_DIR$/1_getting_started" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/7_Video_Action_Recognition" />
       <recent name="$PROJECT_DIR$/6_NLP" />
       <recent name="$PROJECT_DIR$/5_Optimization" />
       <recent name="$PROJECT_DIR$/4_RNN" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1_getting_started" />
+      <recent name="$PROJECT_DIR$/4_RNN" />
+      <recent name="$PROJECT_DIR$/3_CNN" />
+      <recent name="$PROJECT_DIR$/1_getting_started/data" />
+      <recent name="$PROJECT_DIR$/2_Advanced_PyTorch" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

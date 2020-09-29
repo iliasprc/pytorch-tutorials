@@ -12,7 +12,7 @@
 [深度学习基础及数学原理](2.2-deep-learning-basic-mathematics.ipynb)
 
 ### 第三节 神经网络简介
-[神经网络简介](2.3-deep-learning-neural-network-introduction.ipynb)
+[神经网络简介](../1_getting_started/1.9.neural-network-introduction.ipynb)
 
 ### 第四节 卷积神经网络
 [卷积神经网络](../3_CNN/2.4-cnn.ipynb)
