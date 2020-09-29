@@ -25,16 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68aebbcd-f2bc-4f22-9c1b-6fdf6318329f" name="Default Changelist" comment="Update linear regression ipynb">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pytorch-tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pytorch-tutorials.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_getting_started/1.7.linear_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.7.linear_regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Advanced_PyTorch/2.2-deep-learning-basic-mathematics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/2.2-deep-learning-basic-mathematics.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Advanced_PyTorch/2.3-deep-learning-neural-network-introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.9.neural-network-introduction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Advanced_PyTorch/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_CNN/2.4-cnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_CNN/2.4-cnn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="68aebbcd-f2bc-4f22-9c1b-6fdf6318329f" name="Default Changelist" comment="Update 1.9 and 2,4">
+      <change beforePath="$PROJECT_DIR$/1_getting_started/1.9.neural-network-introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.9.neural-network-introduction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600978040834</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Update 1.9 and 2,4">
+      <created>1601383729832</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601383729832</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +262,8 @@
     <MESSAGE value="Ai summer chapter 1" />
     <MESSAGE value="Translation chapter 3, 4 and 5" />
     <MESSAGE value="Update linear regression ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update linear regression ipynb" />
+    <MESSAGE value="Update 1.9 and 2,4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 1.9 and 2,4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600801339533">
@@ -274,22 +274,22 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1601059430412" />
-    <state width="903" height="371" key="GridCell.Tab.0.bottom" timestamp="1601125297489">
+    <state width="1807" height="405" key="GridCell.Tab.0.bottom" timestamp="1601384468125">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="903" height="371" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601125297489" />
-    <state width="903" height="371" key="GridCell.Tab.0.center" timestamp="1601125297488">
+    <state width="1807" height="405" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601384468125" />
+    <state width="1807" height="405" key="GridCell.Tab.0.center" timestamp="1601384468124">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="903" height="371" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601125297488" />
-    <state width="903" height="371" key="GridCell.Tab.0.left" timestamp="1601125297488">
+    <state width="1807" height="405" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601384468124" />
+    <state width="1807" height="405" key="GridCell.Tab.0.left" timestamp="1601384468124">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="903" height="371" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601125297488" />
-    <state width="903" height="371" key="GridCell.Tab.0.right" timestamp="1601125297488">
+    <state width="1807" height="405" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601384468124" />
+    <state width="1807" height="405" key="GridCell.Tab.0.right" timestamp="1601384468124">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="903" height="371" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601125297488" />
+    <state width="1807" height="405" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601384468124" />
     <state width="903" height="344" key="GridCell.Tab.1.bottom" timestamp="1600888457558">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -314,10 +314,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1601109626737" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1600978045914">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1601383736555">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1600978045914" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1601383736555" />
     <state x="866" y="399" width="244" height="307" key="cloudConfig.SelfSettingsDialog" timestamp="1600710505722">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
