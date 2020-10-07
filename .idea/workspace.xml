@@ -25,8 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68aebbcd-f2bc-4f22-9c1b-6fdf6318329f" name="Default Changelist" comment="Update 1.9 and 2,4">
+    <list default="true" id="68aebbcd-f2bc-4f22-9c1b-6fdf6318329f" name="Default Changelist" comment="Update 1.9">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_getting_started/1.8.logistic-regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.8.logistic-regression.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1_getting_started/1.9.neural-network-introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started/1.9.neural-network-introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Advanced_PyTorch/2.1.1.advanced-tensor.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Advanced_PyTorch/2.1.1.advanced-tensor.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +120,10 @@
       <workItem from="1601050945486" duration="1512000" />
       <workItem from="1601059381554" duration="698000" />
       <workItem from="1601108827190" duration="6774000" />
+      <workItem from="1601387737861" duration="795000" />
+      <workItem from="1601974554172" duration="4297000" />
+      <workItem from="1602065405950" duration="615000" />
+      <workItem from="1602071485308" duration="1208000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 1 updates">
       <created>1599990918728</created>
@@ -223,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601383729832</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Update 1.9">
+      <created>1601387431761</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1601387431761</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +254,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="dev" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -263,17 +277,18 @@
     <MESSAGE value="Translation chapter 3, 4 and 5" />
     <MESSAGE value="Update linear regression ipynb" />
     <MESSAGE value="Update 1.9 and 2,4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 1.9 and 2,4" />
+    <MESSAGE value="Update 1.9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 1.9" />
   </component>
   <component name="WindowStateProjectService">
     <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600801339533">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600801339533" />
-    <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1601059430412">
+    <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1602061719242">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1601059430412" />
+    <state x="776" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1602061719242" />
     <state width="1807" height="405" key="GridCell.Tab.0.bottom" timestamp="1601384468125">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -314,18 +329,18 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1601109626737" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1601383736555">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1601387435622">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1601383736555" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1601387435622" />
     <state x="866" y="399" width="244" height="307" key="cloudConfig.SelfSettingsDialog" timestamp="1600710505722">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="866" y="399" width="244" height="307" key="cloudConfig.SelfSettingsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600710505722" />
-    <state x="775" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601051275733">
+    <state x="775" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601974575337">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="775" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1601051275733" />
+    <state x="775" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1601974575337" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
